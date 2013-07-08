@@ -6,3 +6,4 @@ Sunrise.pm
 t/00load.t
 t/01basic.t
 t/02constants.t
+META.yml                                 Module meta-data (added by MakeMaker)
